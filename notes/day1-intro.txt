@@ -1,0 +1,64 @@
+Bitmap vs Vector
+
+Bitmap:
+	Raster images
+	Pixel Based
+	Mapped to a grid
+	Each Px is a color and can be edited
+	Bitmap Data is color and location
+	Not easily scalable
+	Good for photorealistic images
+
+Vector:
+	Mathematically-created
+	Smooth Edges
+	Creates curves or shapes
+	Good for precise illustrations.
+	Easily Scalable
+
+COLORS
+
+Primary Colors
+	The Additive Colors
+	Red, Green, Blue
+
+	Subtractive Colors
+		4 types
+		CMYK (think printer colors)
+
+	Colors that lie opposite each other on the color wheel are referred to as complementary colors.
+
+	Every pixel in an image has two data fields
+	Location and Color
+
+
+	BIT DEPTH
+		Bit depth refers to the number of colors that can be displayed.
+
+		A bit is 0 or 1. The more bits available to describe the color, the more color combinations are possible.
+
+		As a side effect, file size increases dramatically as you increase bit Depth.
+
+	How many colors can HUMANS see?
+		Humans can distinguish between 10,000,000 shades.
+
+	Index Color and Dithering
+		Index Color is a color mode using 8-bit image. The mode has a limited pallette of up to 256 colors.
+
+		Index Color allows us to be smart about reducing file size. The more colors allowed, the better an image looks.
+
+		This forces the computer to approximate non-included colors, by mixing pixels of 2 or more colors from the palette to give the illusion of another color.
+
+		This is called DITHERING.
+
+	Color Management
+		HUE
+			What most people think about "color". The generic name used to describe 'red', 'green', 'blue'.
+		SATURATION
+			Refers to how pure the color is. A fully saturated color is the truest version of the color.
+		BRIGHTNESS
+			Amount of white in a color.
+
+
+	Resolution
+		Refers to the number of pixels per unit of measurement printed on a page.
