@@ -1,0 +1,29 @@
+########## DAY 2 #############
+#Photoshop Tools Introduction#
+##############################
+
+Goals:
+	Change document and canvas size
+	summary of tools
+	Image Cropping
+	Image Straightening
+	Demos
+		Sizing
+		Crop/Straighten/Borders
+
+
+RESAMPLING
+	Resampling allows you to change print dimensions and resolution
+	independently.
+
+THE CANVAS
+	The CANVAS SIZE is the full editable area of an image.
+	The *CanvasSize* Command lets you increase or decrease your
+	canvas size.
+	If you increase the canvas size of an image with a transparent
+	background, the added canvas is transparent. 
+
+CROPPING AND STRAIGHTENING
+	Adjusting your image usually requires you to lose part of the image.
+	Photoshop gives you the *RULER* tool and the *CROP* Tool.
+	
