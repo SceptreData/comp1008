@@ -1,0 +1,29 @@
+*****************
+*	LESSON 3    *
+*****************
+
+Perspective
+	In context of vision and visual perception, is the way in which objects appear to the eye based on their spatial attributes.
+
+	Linear Perspective
+		As objects move further away from the viewer they appear smaller.
+
+	Graphical Perspective
+		An approximate representation of an image drawn on a flat surface. Essentially an illusion.
+
+		Two characteristic features of drawn perspective:
+			Smaller as distance from observer increases.
+			Foreshortened: the size of an objects dimensions along the line of sight are relatively shorter than dimensions across the line of sight.
+
+
+	VANISHING POINTS
+		One Point Perspective
+			Typically used for roads, as they dissappear shrink into the distance.
+
+		Two Point Perspective
+			Used to draw the same objects as one-point perspective rotated.
+			For Example:
+				Looking at the corner of a house.
+
+
+	
