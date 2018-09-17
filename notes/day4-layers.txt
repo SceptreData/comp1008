@@ -1,0 +1,20 @@
+DAY 4
+Sept 17 2018
+
+LAYERS
+Once you know how to use layers you can create incredible compositions, repair images
+and in general do a lot of cool photoshop stuff.
+
+The easiest way to think of a layer is a clear plastic sheet of film. 
+You can then stack the sheets of film together to form a a picture.
+
+CLICK + DRAG On layers to enable/disable more than one.
+
+ALWAYS NAME YOUR LAYERS
+
+**************
+The ERASE tool.
+
+This is a destructive tool.
+
+Blending techniques are Non destructive.
