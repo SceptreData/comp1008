@@ -1,0 +1,14 @@
+DAY 5
+Selections
+
+A selection isolates one or more parts of your image. This allows you to be
+very specific with the way you apply effects and filters to your image.
+
+MARQUEE TOOLS
+Rectangle
+	Lets you select a square area
+Elliptical
+	Lets you select a circular area.
+
+LASSO TOOLS
+	The lasso tool is a freeform selection tool. It's great for creating an initial rough selection and it is is even better for cleaning up an existing selection. 
