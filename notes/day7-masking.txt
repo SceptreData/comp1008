@@ -1,0 +1,9 @@
+*****************************
+*							*
+*	MASKING					*
+*							*
+*****************************
+
+Masks are usefol for blending photos and hiding portions of images without altering them directly. Masking is a non destructive technique for manipulating your composition.
+
+When you select part of an image, the area that is not selected is "masked", or protected from editing.
